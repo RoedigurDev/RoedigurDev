@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Roedigur
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning how to develop a website
